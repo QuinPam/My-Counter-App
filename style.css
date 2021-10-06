@@ -95,7 +95,7 @@ main {
     cursor: pointer;
   }
 
-  @media (max-width: 900px) {
+  @media (max-width: 800px) {
     .container {
       
       display: flex;
@@ -103,3 +103,4 @@ main {
       margin-top: 50px;
       width: 80%;
   }
+}
